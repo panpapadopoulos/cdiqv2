@@ -1,0 +1,8 @@
+/dbms/vlpd
+
+/server/cert
+/server/pkey
+
+/server/vwh/resources/images/interviewer/i*
+
+**/__pycache__
